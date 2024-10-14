@@ -1,0 +1,1 @@
+The aim of this project is to create a short program to autmatically render any given image to ASCII letters, as well as being able to change certain properties of the image such as height, width, brightness and contrast. The program is written in a user-friendly interface with instructions to make a smooth experience. 
